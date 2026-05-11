@@ -2,9 +2,11 @@ This repository contains the design, implementation, and analysis of a 6-Transis
 
 -----------------------------------------------------------------------------------------------------------
 
-Tool used : Cadence Virtuoso
-library : gpdk045
-Licence : IIT BOMBAY
+Tool used : Cadence Virtuoso |
+library : gpdk045 |
+Licence : IIT BOMBAY 
+
+-----------------------------------------------------------------------------------------------------------
 
 THE COMPLETE SCHEMATIC OF SRAM 6T CELL
 --------------------------------------------------------------------------------------------------------------------------------------
