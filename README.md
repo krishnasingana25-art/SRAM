@@ -52,4 +52,38 @@ BUTTERFLY CURVE using Y vs Y function
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a9119b5f-2bc6-4415-bdea-5bd0d926384b" />
 
 
+--------------------------------------------------
+CORNER ANALYSIS
+---------------------------------------------------
+
+The testbench is configured to perform DC Analysis for Read Stability.
+Voltage Sources
+VDC (VDD): Set to various levels (1.8V, 1.4V, 1.0V) to test low-voltage stability.
+
+VPULSE / VDC (WL): Word line held high at VDD to enable access transistors (Read Mode).
+
+VDC (BL/BLB): Bit lines tied to VDD for Read Margin analysis.
+
+Simulation Parameters
+Analysis Type: DC Sweep.
+
+Sweep Variable: Input voltage source connected to one side of the internal latch.
+
+Sweep Range: 0V to VDD.
+
+Corner & PVT Analysis
+Simulations were performed across multiple process corners and voltages to ensure robustness:
+
+Process Corners: tt (Typical), ff (Fast-Fast), ss (Slow-Slow), fs (Fast-Slow), sf (Slow-Fast).
+
+Voltage Scaling: 1.8V (Nominal), 1.4V, and 1.0V.
+
+Output Visualization
+Nodes: Q and QB (internal storage nodes).
+
+Plotting: Use the "Y versus Y" function in the Cadence Virtuoso Visualization & Analysis tool.
+
+Graph: Plot V(Q) vs V(QB) and V(QB) vs V(Q) to generate the characteristic Butterfly Plot.
+
+
 
