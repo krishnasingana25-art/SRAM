@@ -4,10 +4,10 @@ Tool used : Cadence Virtuoso
 library : gpdk045
 
 THE COMPLETE SCHEMATIC OF SRAM 6T CELL
-<img width="1000" height="731" alt="image" src="https://github.com/user-attachments/assets/2d678c11-0107-433f-91c9-d0033df4634a" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/2d678c11-0107-433f-91c9-d0033df4634a" />
 
 CELL SIZING
-<img width="1000" height="959" alt="image" src="https://github.com/user-attachments/assets/fddddae2-8d32-4b3b-9731-38b80a448898" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/fddddae2-8d32-4b3b-9731-38b80a448898" />
 ransistor SizingTo ensure the cell operates correctly during read and write operations, the following sizing ratios were used:Pull-Up (PMOS): Reference Width ($W_p$) — Acts as the load transistors in the cross-coupled inverters.Pull-Down (NMOS): $2 \times W_p$ — Driver transistors sized larger than PMOS to ensure a strong "0" and proper read stability.Pass-Gate (NMOS): $1.5 \times W_p$ — Access transistors sized between the driver and load to balance write-ability and read-stability (Cell Ratio and Pull-up Ratio).
 
 Testbench SetupThe testbench is configured to perform DC Analysis.
