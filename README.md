@@ -17,3 +17,6 @@ Testbench SetupThe testbench is configured to perform DC Analysis.
 
 
 
+OUTPUT of DC Characterstics of 6T SRAM 
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/931c22b4-35d3-4b5f-b723-ab5caa01973f" />
+
