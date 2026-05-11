@@ -25,7 +25,7 @@ OUTPUT of DC Characterstics of 6T SRAM
 BUTTERFLY CURVE using Y vs Y function
 
 ---------------------------------------------------------------------------------------------------------------------------
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a9119b5f-2bc6-4415-bdea-5bd0d926384b" />
 
-<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/41807695-82fc-4397-9756-89d1aa01967e" />
 
 
