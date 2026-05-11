@@ -1,5 +1,8 @@
 This repository contains the design, implementation, and analysis of a 6-Transistor (6T) Static Random Access Memory (SRAM) cell using Cadence Virtuoso. The project focuses on schematic design, transistor sizing for stability, and DC analysis (Butterfly Curve) to evaluate the Static Noise Margin (SNM).
 
+Tool used : Cadence Virtuoso  
+Library   : gpdk045  
+License   : IIT BOMBAY  
 
 
 Tool used : Cadence Virtuoso
