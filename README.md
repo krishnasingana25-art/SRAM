@@ -96,9 +96,12 @@ Ben is added to precharge the bitlines
 Read 0 completed succesfully
 
 --------------------------
+Q = 0 , QB = 1
 
+0 is succesfully transferd to BL
+------------------------------------------------------------
 <img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/80a972a5-a75e-458e-8780-6f8e102bd5ec" />
-
+--------------------------------------------------------------
 
 
 
