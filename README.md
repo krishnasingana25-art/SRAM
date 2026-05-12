@@ -81,7 +81,7 @@ Voltage Scaling: 1.8V (Nominal), 1.4V, and 1.0V.
 Output Visualization
 Nodes: Q and QB (internal storage nodes).
 
-<img width="700" height="350" alt="Screenshot 2026-05-12 025936" src="https://github.com/user-attachments/assets/a7504715-1446-42ff-a0bc-c675b8b88eca" />
+<img width="600" height="350" alt="Screenshot 2026-05-12 025936" src="https://github.com/user-attachments/assets/a7504715-1446-42ff-a0bc-c675b8b88eca" />
 
 -----------------------------
 READ operation
