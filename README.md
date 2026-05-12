@@ -83,6 +83,15 @@ Nodes: Q and QB (internal storage nodes).
 
 <img width="700" height="350" alt="Screenshot 2026-05-12 025936" src="https://github.com/user-attachments/assets/a7504715-1446-42ff-a0bc-c675b8b88eca" />
 
+-----------------------------
+READ operation
+-------------------------------
+
+Ben is added to precharge the bitlines
+
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/c3047939-9eab-4c2b-aa43-79cba0757e94" />
+
+
 
 
 
