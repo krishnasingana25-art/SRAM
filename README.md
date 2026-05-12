@@ -81,9 +81,8 @@ Voltage Scaling: 1.8V (Nominal), 1.4V, and 1.0V.
 Output Visualization
 Nodes: Q and QB (internal storage nodes).
 
-Plotting: Use the "Y versus Y" function in the Cadence Virtuoso Visualization & Analysis tool.
+<img width="700" height="350" alt="Screenshot 2026-05-12 025936" src="https://github.com/user-attachments/assets/a7504715-1446-42ff-a0bc-c675b8b88eca" />
 
-Graph: Plot V(Q) vs V(QB) and V(QB) vs V(Q) to generate the characteristic Butterfly Plot.
 
 
 
