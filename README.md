@@ -91,6 +91,15 @@ Ben is added to precharge the bitlines
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/c3047939-9eab-4c2b-aa43-79cba0757e94" />
 
+--------------------------
+
+Read 0 completed succesfully
+
+--------------------------
+
+<img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/80a972a5-a75e-458e-8780-6f8e102bd5ec" />
+
+
 
 
 
