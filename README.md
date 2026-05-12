@@ -88,7 +88,7 @@ READ operation
 -------------------------------
 
 Ben is added to precharge the bitlines
-
+--------------------------------------------------------------------------------------------------------------------------------
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/c3047939-9eab-4c2b-aa43-79cba0757e94" />
 
 --------------------------
