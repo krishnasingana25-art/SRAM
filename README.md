@@ -101,7 +101,17 @@ Q = 0 , QB = 1
 0 is succesfully transferd to BL
 ------------------------------------------------------------
 <img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/80a972a5-a75e-458e-8780-6f8e102bd5ec" />
---------------------------------------------------------------
+
+--------------------------------
+
+Write operation
+
+-------------------------------
+
+1 is succesfully transfered from BL to Q
+----------------------------------------------------------------
+<img width="1906" height="856" alt="image" src="https://github.com/user-attachments/assets/b979f4bc-b354-4d1b-a493-3e7dc594878a" />
+
 
 
 
